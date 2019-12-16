@@ -1,0 +1,9 @@
+C:\Users\kamil\source\repos\K.YasinABLAY_Odev1\K.YasinABLAY_Odev1\bin\Debug\K.YasinABLAY_Odev1.exe.config
+C:\Users\kamil\source\repos\K.YasinABLAY_Odev1\K.YasinABLAY_Odev1\bin\Debug\K.YasinABLAY_Odev1.exe
+C:\Users\kamil\source\repos\K.YasinABLAY_Odev1\K.YasinABLAY_Odev1\bin\Debug\K.YasinABLAY_Odev1.pdb
+C:\Users\kamil\source\repos\K.YasinABLAY_Odev1\K.YasinABLAY_Odev1\obj\Debug\K.YasinABLAY_Odev1.csprojAssemblyReference.cache
+C:\Users\kamil\source\repos\K.YasinABLAY_Odev1\K.YasinABLAY_Odev1\obj\Debug\K.YasinABLAY_Odev1.Form1.resources
+C:\Users\kamil\source\repos\K.YasinABLAY_Odev1\K.YasinABLAY_Odev1\obj\Debug\K.YasinABLAY_Odev1.Properties.Resources.resources
+C:\Users\kamil\source\repos\K.YasinABLAY_Odev1\K.YasinABLAY_Odev1\obj\Debug\K.YasinABLAY_Odev1.csproj.GenerateResource.cache
+C:\Users\kamil\source\repos\K.YasinABLAY_Odev1\K.YasinABLAY_Odev1\obj\Debug\K.YasinABLAY_Odev1.exe
+C:\Users\kamil\source\repos\K.YasinABLAY_Odev1\K.YasinABLAY_Odev1\obj\Debug\K.YasinABLAY_Odev1.pdb
